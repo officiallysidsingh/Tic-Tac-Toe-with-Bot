@@ -19,11 +19,11 @@ After that there will be a random decision of who gets to play first.
 The Board will look like this :-
 
  7 | 8 | 9
------------
+___________
  4 | 5 | 6
------------
+___________
  1 | 2 | 3
------------
+___________
 
 You just need to input the position(1-9) and your symbol, i.e., X or O will appear in that position in the result.
 
